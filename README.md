@@ -72,7 +72,7 @@ O código-fonte do aplicativo está disponível neste repositório para quem qui
 
 Para compilar no Windows, use o script `build.ps1` em um PowerShell. Ele baixa o pacote oficial do Ludusavi e confere seu SHA-256 antes de compilar as versões instalada e portátil. Para gerar o instalador, instale também o Inno Setup 6 e informe o caminho do compilador `ISCC.exe` ao script.
 
-O Ludusavi é distribuído sob a licença MIT. Seu texto está em [`src/Ludusavi-LICENSE.txt`](src/Ludusavi-LICENSE.txt). O código do MemoryCard ainda não possui uma licença de uso definida neste repositório.
+O código do MemoryCard está disponível sob a [licença MIT](LICENSE), permitindo estudo, adaptação e distribuição conforme seus termos. O Ludusavi também é distribuído sob a licença MIT, disponível em [`src/Ludusavi-LICENSE.txt`](src/Ludusavi-LICENSE.txt).
 
 ## 💜 Créditos
 
